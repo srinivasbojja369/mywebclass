@@ -14,7 +14,7 @@ theirs. The end result is that each partner should have the experience of the te
 
 ### 1. [FIRST WATCH THIS VIDEO](https://youtu.be/uNHNLale9A0)
 
-### 2. FIND A PARTNER USING SLACK OR THE CANVAS DISCUSSION BOARD!
+### 2. FIND A PARTNER USING SLACK OR THE CANVAS DISCUSSION BOARD
 
 ### 3. Both Partners ACCEPT THE Assignment GITHUB to create their own GitHub repo, so each person has the chance to do all the steps and practice makes perfect...
 
